@@ -12,11 +12,6 @@ Welcome to the **Job Application Tracker Chrome Extension**! This extension allo
 
 1. Clone this repository:
 
-```bash
-git clone https://github.com/iam-yashpradhan/job-extension-tool.git
-cd job-extension-tool
-
-```
 2. Create virtual environment (Optional):
 
 ```bash
@@ -65,7 +60,5 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 
 ## 📫 Contact
-
-For any questions or feedback, please reach out at [iamyashpradhan@gmail.com](mailto:iamyashpradhan@gmail.com).
 
 Thank you for using the Job Application Tracker Chrome Extension! Happy job hunting! 🚀
